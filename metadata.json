@@ -1,0 +1,8 @@
+{
+  "name": "RSena Veículos",
+  "description": "Compra, venda, troca e financiamento de veículos novos e seminovos, nacionais e importados em Fortaleza, CE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
